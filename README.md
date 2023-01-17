@@ -1,7 +1,5 @@
 # React Interview Questions & Answers
 
----
-
 
 **Note:** This repository is specific to ReactJS. Please check [Javascript Interview questions](https://github.com/sethukumar0001/javascript-interview-questions) for core javascript questions.
 
